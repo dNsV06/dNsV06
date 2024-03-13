@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dNsV06
-- 👀 I’m interested in ...code
-- 🌱 I’m currently learning ...BE CSE
-- 📫 How to reach me ...Just msg
+- 👀 I’m interested in ... coding 
+- 🌱 I’m currently learning ... pythi6
+- 📫 How to reach me ...6369015600
 - ⚡ Fun fact: ...I'm easily distracted in my exams 
 
 <!---
