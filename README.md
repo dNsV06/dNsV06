@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dNsV06
+- 👋 Hi, I’m @DINESH
 - 👀 I’m interested in ... coding 
 - 🌱 I’m currently learning ... pythi6
 - 📫 How to reach me ...6369015600
